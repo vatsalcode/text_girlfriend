@@ -6,7 +6,7 @@ Send text to girlfriend/boyfriend (or really anyone with a phone number) in the 
 - Python
 - Apple iMessage
 
-## How to Use
+## Usage
 1. Configure your settings in `utils.py`.
     ```py
     phone_number = "+91xxxx8982"
